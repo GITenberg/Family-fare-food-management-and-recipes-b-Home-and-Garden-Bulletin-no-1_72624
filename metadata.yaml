@@ -1,0 +1,33 @@
+_repo: Family-fare-food-management-and-recipes-b-Home-and-Garden-Bulletin-no-1_72624
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Anonymous
+    aliases:
+    - Anonyme
+    - Anonymous, Anonymous
+    gutenberg_agent_id: '216'
+    url: http://www.gutenberg.org/2009/agents/216
+    wikipedia:
+    - https://en.wikipedia.org/wiki/Anonymous_work
+    - http://www.gutenberg.org/ebooks/author/49
+description: ''
+gutenberg_issued: '2024-01-05'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '72624'
+language: en
+pgterms:marc905: 20200414140928anonymous
+pgterms:marc906: '1968'
+pgterms:marc907: US
+production_note: Bob Taylor, Lisa Corcoran, Stephen Hutcheson and the Online Distributed
+  Proofreading Team at https://www.pgdp.net
+publication_note: '  $aWashington :$bU. S. Government Printing Office, $c1968.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: 'Family fare: food management and recipes : $b Home and Garden Bulletin no.
+  1'
+url: http://www.gutenberg.org/ebooks/72624
